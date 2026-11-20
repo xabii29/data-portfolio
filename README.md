@@ -6,7 +6,7 @@ I'm currently developing this repo to include little projects related to data an
 
 ### Table of contents
 | N° | Title | Status |
-|...|...|...|
+|---|---|---|
 | 1 | Sensor Network Health Monitor | Planned |
 | 2 | Cross-Source Validation: temperature | Planned |
 | 3 | Grid Carbon Reporting Pack | Planned |
